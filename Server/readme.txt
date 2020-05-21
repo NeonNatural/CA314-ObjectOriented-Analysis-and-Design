@@ -1,0 +1,1 @@
+These files are our attempt at integrating client/server for multiplayer, however we were not able to successfully implement by the last deadline. 
